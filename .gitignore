@@ -1,0 +1,5 @@
+/.cache
+/.vscode
+/STM32F4xx_without_hal.code-workspace
+/build
+/image

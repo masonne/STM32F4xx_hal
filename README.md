@@ -1,0 +1,1 @@
+stm32f4xx template project, using cmsis interface, no hal library, built with cmake
