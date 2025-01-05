@@ -1,1 +1,1 @@
-stm32f4xx template project, using cmsis interface, no hal library, built with cmake
+stm32f4xx template project, using cmsis interface, using hal library, built with cmake
